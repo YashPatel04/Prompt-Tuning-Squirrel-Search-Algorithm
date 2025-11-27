@@ -17,7 +17,7 @@ dataset = [
 # Then in another terminal: ollama pull mistral
 llm = OllamaInterface(
     base_url="http://localhost:1561",
-    model="deepseek-r1:7b",
+    model="gemma3:270m",
     temperature=0.0
 )
 

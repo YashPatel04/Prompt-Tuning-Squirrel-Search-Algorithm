@@ -52,7 +52,7 @@ ssa-prompt-tuning/
 │   │   ├── __init__.py
 │   │   ├── logger.py              # Logging utilities
 │   │   ├── metrics.py             # Evaluation metrics
-│   │   └── visualization.py       # Plot evolution curves, etc.
+│   │   └── visualizer.py       # Plot evolution curves, etc.
 │   │
 │   └── experiments/
 │       ├── __init__.py
