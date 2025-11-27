@@ -1,0 +1,23 @@
+id,text,label
+39,This product is useless and badly made.,negative
+25,This is wonderful! I'm thrilled with my purchase.,positive
+26,I'm very disappointed. It doesn't work at all.,negative
+43,Extremely disappointed. Total scam.,negative
+35,It's comparable to similar products.,neutral
+41,Horrible quality. Don't buy this!,negative
+4,This is a decent product for the price.,neutral
+12,Excellent work! Professional and highly satisfied.,positive
+8,Amazing! I'm so impressed with the quality.,positive
+3,Horrible experience. I want my money back.,negative
+6,Terrible customer service and poor quality product.,negative
+24,Wonderful experience! I will definitely buy again.,positive
+32,The item performs its basic function.,neutral
+19,Absolutely perfect! I couldn't ask for better.,positive
+17,It's an average item. Nothing special.,neutral
+13,The warranty is standard.,neutral
+42,The product is adequate for everyday use.,neutral
+15,This product is terrible. Worst purchase ever.,negative
+9,Awful! Completely unusable. Waste of money.,negative
+16,This is incredible! Exceeded my expectations completely.,positive
+37,The color matches the online description.,neutral
+31,Outstanding! This is exactly what I was looking for.,positive

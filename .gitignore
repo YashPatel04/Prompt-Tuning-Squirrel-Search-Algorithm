@@ -1,0 +1,4 @@
+generate.py
+/data/cache
+
+__pycache__/

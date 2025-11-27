@@ -1,0 +1,16 @@
+certifi            
+charset-normalizer 
+idna               
+joblib             
+numpy              
+pandas             
+pip                
+python-dateutil    
+pytz               
+requests           
+scikit-learn       
+scipy              
+six                
+threadpoolctl     
+tzdata             
+urllib3            

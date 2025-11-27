@@ -169,7 +169,8 @@ class Genome:
     def random_perturbation(self, perturbation_std=0.2):
         """
         Large random perturbation (escape predation in SSA).
-        
+        reset step or kick-out-of-local-minima
+
         Args:
             perturbation_std: Standard deviation of perturbation
         """

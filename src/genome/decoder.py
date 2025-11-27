@@ -11,15 +11,14 @@ class GenomeDecoder:
     Core logic: Genome → Mutations → Final Prompt
     """
     
-    def __init__(self, base_prompt: str = None):
+    def __init__(self, base_prompt=None):
         """
         Initialize decoder with base prompt.
         
         Args:
             base_prompt: Starting prompt template
         """
-        self.base_prompt = base_prompt or BasePrompt.SENTIMENT_SIMPLE
-        self.base_components = PromptParser.parse(self.base_prompt)
+        pass
     
     def decode(self, genome) -> str:
         """
